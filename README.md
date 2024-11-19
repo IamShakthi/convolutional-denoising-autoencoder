@@ -1,4 +1,3 @@
-
 # EX-07 Convolutional Autoencoder for Image Denoising
 ### Aim:
 To develop a convolutional autoencoder for image denoising application. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**DATE :**
@@ -105,15 +104,7 @@ display_images(xtestS, xtestN, decodeimg)
 ### Output:
 
 ##### Training Loss, Validation Loss Vs Iteration Plot
-![Screenshot 2024-11-14 165512](https://github.com/user-attachments/assets/01b29df7-e0da-4ea9-ad98-c4cd65f9f29b)
-
-
-##### Original vs Noisy Vs Reconstructed Image
-![Screenshot 2024-11-14 162556](https://github.com/user-attachments/assets/7a256131-c5ab-4b92-b695-f66311d81ea4)
-
-
-### Result:
-Thus we have successfully developed a convolutional autoencoder for image denoising application.
+![image](https://github.com/user-attachments/assets/acf2d443-ddb8-4fb2-81b4-22005cbde1ea)
 
 
 ##### Original vs Noisy Vs Reconstructed Image
