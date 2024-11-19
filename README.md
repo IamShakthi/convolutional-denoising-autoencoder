@@ -82,7 +82,7 @@ metrics=pd.DataFrame(model.history.history)
 plt.figure(figsize=(7,2.5))
 plt.plot(metrics['loss'], label='Training Loss')
 plt.plot(metrics['val_loss'], label='Validation Loss')
-plt.title('Training Loss vs. Validation Loss\nSRIRAM S(212222240105)')
+plt.title('Training Loss vs. Validation Loss\nYUVASAKTHI(212222240120)')
 ```
 ##### Predicting the model
 ```Python
